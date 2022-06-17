@@ -154,3 +154,4 @@ generate_caption(caption_model, IMAGE_SIZE, valid_images, valid_data,
 generate_caption(caption_model, IMAGE_SIZE, valid_images, valid_data,
                  max_decoded_sentence_length, vectorization,
                  index_lookup)
+
